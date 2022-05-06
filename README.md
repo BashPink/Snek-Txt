@@ -1,2 +1,8 @@
 # Snek-Txt
-A simple Text editor for creating most types of files. (As long as you know the extension ;D )
+
+Snek Txt is a python based simple text editor that can create most types of files.
+More updates and features will be added as the project advances.
+
+# Version History
+
+1.0.0 Initial Release (5/6/2022)
